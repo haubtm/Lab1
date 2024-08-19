@@ -22,5 +22,3 @@
     } else {
         console.log(`John's BMI (${johnBMI}) is higher than Mark's (${markBMI})!`);
     }
-
-    
